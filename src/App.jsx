@@ -20,6 +20,7 @@ function App() {
           <p>
             Edit <code>src/App.jsx</code> and save to test <code>HMR</code>
           </p>
+          <p>Hola buena tardes</p>
         </div>
         <button
           type="button"
@@ -50,6 +51,12 @@ function App() {
               <a href="https://react.dev/" target="_blank">
                 <img className="button-icon" src={reactLogo} alt="" />
                 Learn more
+              </a>
+            </li>
+            <li>
+              <a href="https://react.dev/" target="_blank">
+                <img className="button-icon" src={reactLogo} alt="" />
+                Llego papa *lo cachetea*
               </a>
             </li>
           </ul>
