@@ -58,6 +58,10 @@ function App() {
                 <img className="button-icon" src={reactLogo} alt="" />
                 Llego papa *lo cachetea*
               </a>
+                            <a href="https://react.dev/" target="_blank">
+                <img className="button-icon" src={reactLogo} alt="" />
+                cachorros
+              </a>
             </li>
           </ul>
         </div>
