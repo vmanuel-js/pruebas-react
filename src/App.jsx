@@ -106,7 +106,9 @@ function App() {
                   <use href="/icons.svg#x-icon"></use>
                 </svg>
                 X.com
+                HDJHAJHDKJADKJdsa
               </a>
+              <a>dsadsadada</a>
             </li>
             <li>
               <a href="https://bsky.app/profile/vite.dev" target="_blank">
